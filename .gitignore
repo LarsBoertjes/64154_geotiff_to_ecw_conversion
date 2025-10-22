@@ -1,0 +1,6 @@
+process.log
+sample_data/
+*.tif
+*.tiff
+*.ecw
+*.zip
